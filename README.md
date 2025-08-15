@@ -23,8 +23,8 @@ This project is perfect for learning the basics of Natural Language Processing a
 
 Example Conversation
 
-You: my name is John
-Bot: Hello John, How are you today?
+You: my name is ramraju
+Bot: Hello ramraju, How are you today?
 
 You: I need help
 Bot: I can help you
